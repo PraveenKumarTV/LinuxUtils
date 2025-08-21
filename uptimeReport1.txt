@@ -1,0 +1,13 @@
+Uptime per day for past 7 days:
+Aug 15: 3 hrs and 55 mins
+Aug 16: 5 hrs and 5 mins
+Aug 17: 3 hrs and 18 mins
+Aug 18: 4 hrs and 57 mins
+Aug 19: 7 hrs and 45 mins
+Aug 20: 5 hrs and 40 mins
+Aug 21: 2 hrs and 42 mins
+
+Total uptime in past 7 days: 33 hrs and 22 mins
+Average daily uptime: 4 hrs and 46 mins
+Max uptime: Aug 19 with 7 hrs and 45 mins
+Min uptime: Aug 21 with 2 hrs and 42 mins
